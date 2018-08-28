@@ -10,6 +10,7 @@ body {
   justify-content: space-between;
 
   max-width: 1450px;
+  min-width: 1450px;
   margin: 0 auto;
 
   padding-top: 92px;
@@ -41,6 +42,7 @@ body {
 
 .container {
   max-width: 1450px;
+  min-width: 1450px;
   margin: 0 auto;
 }
 
@@ -376,6 +378,7 @@ body {
 
 .main-footer-container {
   max-width: 1450px;
+  min-width: 1450px;
   margin: 0 auto;
   padding-left: 130px;
   padding-bottom: 40px;
